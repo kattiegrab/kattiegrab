@@ -1,4 +1,4 @@
-![Hi there! My name is Kasia :)](https://media.giphy.com/media/ixUXmLKzYon9iXLq0Q/giphy.gif =400x)
+![Hi there! My name is Kasia :)](https://media.giphy.com/media/ixUXmLKzYon9iXLq0Q/giphy.gif)
 
 <!--
 **kattiegrab/kattiegrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
