@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://gph.is/g/EqLM3dr)
+
 <!--
 **kattiegrab/kattiegrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
