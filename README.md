@@ -57,9 +57,9 @@ I am a Frontend Developer from Poland.
 
 ### :green_book: Currently learning :
 
--   [] Three.js
--   [] WebGL
--   [] Blender
+-   [ ] Three.js
+-   [ ] WebGL
+-   [ ] Blender
 
 ---
 
