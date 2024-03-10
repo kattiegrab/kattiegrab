@@ -55,6 +55,24 @@ I am a Frontend Developer from Poland.
 
 ---
 
+### :writing_hand: Blog Posts :
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM0ZHZ1c2R6ODFudGVjNHZyN2U1ajJuczE4Zzl3MHlwbWF0M2R1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLmEzHozhc9WbTkwPa/giphy.gif" alt="Coming Soon" width="200">
+</div>
+
+---
+
+### :computer: Personal Projects :
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5nSIhPtqyXqEjnjNGJ/giphy.gif" alt="Coming Soon" width="200">
+</div>
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kattiegrab&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattiegrab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
